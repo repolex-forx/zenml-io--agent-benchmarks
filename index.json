@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "agent-benchmarks",
+  "versions": [
+    {
+      "commit": "d971fbe6b82643107ae91a4aea27f47e76acb9b6",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:19:39.508834+00:00"
+    }
+  ]
+}
