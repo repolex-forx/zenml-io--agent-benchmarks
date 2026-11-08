@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/agent-benchmarks/commit/d971fbe6b82643107ae91a4aea27f47e76acb9b6",
       "git:hexsha": "d971fbe6b82643107ae91a4aea27f47e76acb9b6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
